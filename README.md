@@ -88,13 +88,13 @@ The model accepts the following inputs:
 
 ## 🖥️ Application Screenshots
 
-### Home Screen
+### Diabetic Person Prediction
 
-![Home Screen](Images/home.png)
+![Home Screen](Images/Diabetic.jpeg)
 
-### Prediction Result
+### Non-Diabetic Person Prediction
 
-![Prediction Result](Images/result.png)
+![Prediction Result](Images/Non_Diabetic.jpeg)
 
 ---
 
