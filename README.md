@@ -160,15 +160,6 @@ scikit-learn==1.0.1
 
 ---
 
-## 👩‍💻 Team Members
-
-- Ashwini Nikumbh
-- Devyani
-- Mansi
-- Khushbu
-
----
-
 ## 📄 License
 
 This project is developed for educational and learning purposes.
